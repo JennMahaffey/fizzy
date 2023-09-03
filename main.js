@@ -3,8 +3,10 @@
  ******************************/
 
 function fizzbuzz(num1, num2) {
+  for (let num=num1; num <= num2; num++) {
 
-}
+  }
+ }
 
 
 
