@@ -2,8 +2,10 @@
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
 
-function main(num) {
-  let num = 0; num < 100;
+function FizzBuzz(num) {
+
+  if (i % 3 == 0 && i % 5 == 0) {
+    console.log("FizzBuzz");}
 
 
 }
