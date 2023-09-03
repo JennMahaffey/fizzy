@@ -2,13 +2,11 @@
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
 
-function FizzBuzz(num) {
-
-  if (i % 3 == 0 && i % 5 == 0) {
-    console.log("FizzBuzz");}
-
+function fizzbuzz(num1, num2) {
 
 }
+
+
 
 
 
