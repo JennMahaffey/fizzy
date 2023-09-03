@@ -3,8 +3,9 @@
  ******************************/
 
 function main(num) {
-  let num = 1;
-  
+  let num = 0; num < 100;
+
+
 }
 
 
