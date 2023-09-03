@@ -2,11 +2,12 @@
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
 
-function fizzBuzz(n){
+function fizzBuzz(n) {
   
-  for (let x = 1; x <= n; x++)
-  }
 
+  if  num % 3 === 0 && num % 5 === 0;
+  return 'fizzBuzz';
+}
 
 
 
