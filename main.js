@@ -2,12 +2,10 @@
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
 
-function fizzbuzz(num1, num2) {
-  for (let num=num1; num <= num2; num++) {
-
+function fizzBuzz(n){
+  
+  for (let x = 1; x <= n; x++)
   }
- }
-
 
 
 
