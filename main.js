@@ -1,15 +1,15 @@
 /******************************
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
-
-function fizzBuzz(n) {
-  
-
-  if  num % 3 === 0 && num % 5 === 0;
-  return 'fizzBuzz';
-}
-
-
+function fizzy(num){ if(num % 3 === 0 && num % 5 !== 0){
+  return 'Fizz';
+}else if(num % 5 === 0 && num % 3 !== 0){
+  return 'Buzz';
+}else if(num % 5 === 0 && num % 3 === 0){
+  return 'FizzBuzz';
+}else if(num % 5 !== 0 && num % 3 !== 0){
+  return num;
+}else; }
 
 
 
